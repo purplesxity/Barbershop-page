@@ -8,5 +8,9 @@ It will be improved, with new content format, and dinamic updates, also become a
 - HTML
 - CSS
 
+# Link to access
+https://purplesxity.github.io/Barbershop-page/
+
+
 
 
